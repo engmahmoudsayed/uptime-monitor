@@ -1,2 +1,2 @@
 # uptime-monitor
-use this uptime monitor code to detect any changes in url and get sms via twilio service 
+use this uptime monitor API to detect any changes in url and get sms via twilio service 
